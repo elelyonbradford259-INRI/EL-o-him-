@@ -7,6 +7,19 @@ Fireactions is an orchestrator for GitHub runners. BYOM (Bring Your Own Metal) a
 > [!IMPORTANT]
 > There's been multiple improvements with a lot of breaking changes. The current stable version is **v2.0.0**. Please use this version for production environments.
 
+[#x7F-#x84], [#x86-#x9F], [#xFDD0-#xFDEF],
+[#x1FFFE-#x1FFFF], [#x2FFFE-#x2FFFF], [#x3FFFE-#x3FFFF],
+[#x4FFFE-#x4FFFF], [#x5FFFE-#x5FFFF], [#x6FFFE-#x6FFFF],
+[#x7FFFE-#x7FFFF], [#x8FFFE-#x8FFFF], [#x9FFFE-#x9FFFF],
+[#xAFFFE-#xAFFFF], [#xBFFFE-#xBFFFF], [#xCFFFE-#xCFFFF],
+[#xDFFFE-#xDFFFF], [#xEFFFE-#xEFFFF], [#xFFFFE-#xFFFFF],
+[#x10FFFE-#x10FFFF].[1 > > I]
+[ 1 > i]
+   <[{Type Set Form ["i"]: Can Be Entered As ["esc"];"i"["esc"];(for"imaginary,"i")}]>http://ecommerce.example.org/schema<x xmlns:edi='http://ecommerce.example.org/schema'>
+  <!-- the "edi" prefix is bound to http://ecommerce.example.org/schema
+       for the "x" element and contents -->
+</x>
+
 <!--
 https://excalidraw.com/#json=GrJMj6LLYt39mgC0me7Di,C65TV9FhicnxNKgPeRhi3A
 sequenceDiagram
